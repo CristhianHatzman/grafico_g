@@ -1,5 +1,5 @@
 ```mermaid
-flowchat ID
+flowchat TD
   A(["Inicio"])
   A --> B{"Faça uma escolha"}
   B --> C["OP1"]
